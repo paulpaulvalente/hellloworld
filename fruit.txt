@@ -1,3 +1,6 @@
 apples
 oranges
 pears
+grapes
+peaches
+grapefruit

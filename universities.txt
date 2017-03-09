@@ -1,3 +1,6 @@
 Harvard
 MIT
 Northeastern
+BC
+BU
+Tufts
